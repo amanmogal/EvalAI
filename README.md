@@ -190,3 +190,6 @@ If you are interested in contributing to EvalAI, follow our [contribution guidel
 <a href="https://github.com/gitter-badger"><img src="https://avatars.githubusercontent.com/u/8518239?v=4" title="gitter-badger" width="50" height="50"></a>
 
 [//]: contributor-faces
+
+## Documentation
+- [Docker Installation Guide](docker_installation.md)
